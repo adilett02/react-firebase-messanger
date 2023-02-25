@@ -1,3 +1,6 @@
 ### Chat using react and firebase
+With authorization
 
-https://first-project-671a6.web.app/chat
+#### [Demo](https://first-project-671a6.web.app/chat)
+
+
